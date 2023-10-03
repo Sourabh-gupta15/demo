@@ -2,3 +2,5 @@ codechef
 codeforces
 linkedin
 leetcode
+gfg
+github
